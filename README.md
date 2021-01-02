@@ -6,7 +6,7 @@ nasu
 
 suika
 
-kasumitainakurisumasu
+kasu
 
 susi
 
