@@ -15,3 +15,5 @@ sinanogawa
 wani
 
 nittahiyori
+
+ringo
